@@ -1,2 +1,2 @@
-# hadoop-L1
+# Hadoop-L1
 This project contains all the basic hadoop training concepts.
